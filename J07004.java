@@ -1,6 +1,6 @@
 
-import java.io.*;
 import java.util.*;
+import java.io.*;
 
 public class J07004 {
 
@@ -15,5 +15,6 @@ public class J07004 {
                 System.out.println(i + " " + f[i]);
             }
         }
+
     }
 }
