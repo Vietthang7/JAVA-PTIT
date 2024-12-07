@@ -1,10 +1,8 @@
 3
-May lanh SANYO
-12
-4000000
-Dien thoai Samsung
-30
-3230000
-Dien thoai Nokia
-18
-1240000
+A001Y
+1000
+B012N
+2500
+B003Y
+4582
+B
