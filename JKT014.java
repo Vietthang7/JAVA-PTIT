@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class test {
+public class JKT014 {
     public static void main(String[] args)throws IOException {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();  // Đọc số lượng bộ test
